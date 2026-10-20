@@ -18,7 +18,7 @@ my full-time co-op, I wasn't able to complete a submission on time.
 Fortunately, I'm able to highlight that I already do this exact work daily,
 alongside a full team, with production-scale compute and on real humanoids and robots.
 The toolchains, pipelines and training recipes I've built there live in
-Axibo's codebase, so a standalone submission would have meant starting from
+our internal codebase, so a standalone submission would have meant starting from
 zero.
 
 ## How I'd tackle the challenge
