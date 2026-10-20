@@ -7,8 +7,8 @@ build our own humanoids in-house. I do research and software engineering
 end-to-end on bimanual and whole-body humanoid policies.
 
 Day to day, that means fine-tuning and deploying VLAs from scratch,
-end-to-end, from dataset to deployment. Before Axibo, I was at Thalassa
-Robotics, a subsea robotics startup in the San Francisco Bay Area.
+end-to-end, from dataset to deployment. Before Axibo, I was at [Thalassa
+Robotics](https://www.thalassainc.com/), a subsea robotics startup in the San Francisco Bay Area.
 
 - [Resume](https://bjahoor.github.io/brandon_jahoor_resume.pdf)
 - [Portfolio](https://bjahoor.github.io)
