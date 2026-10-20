@@ -16,7 +16,7 @@ Robotics, a subsea robotics startup in the San Francisco Bay Area.
 Unfortunately, having found the challenge late, and with classes on top of
 my full-time co-op, I wasn't able to complete a submission on time.
 Fortunately, I'm able to highlight that I already do this exact work daily,
-alongside a full team, with production-scale compute and on real humanoids.
+alongside a full team, with production-scale compute and on real humanoids and robots.
 The toolchains, pipelines and training recipes I've built there live in
 Axibo's codebase, so a standalone submission would have meant starting from
 zero.
@@ -24,6 +24,6 @@ zero.
 ## How I'd tackle the challenge
 I'd follow a structure similar to your suggested directions, using the
 approaches and strategies I've developed through my work experience (see
-my resume).
+my <ins>[resume](https://bjahoor.github.io/brandon_jahoor_resume.pdf)</ins>).
 
 Happy to walk through any of this in more depth.
