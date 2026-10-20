@@ -24,6 +24,7 @@ zero.
 ## How I'd tackle the challenge
 I'd follow a structure similar to your suggested directions, using the
 approaches and strategies I've developed through my work experience (see
-my [resume](https://bjahoor.github.io/brandon_jahoor_resume.pdf)).
+my [resume](https://bjahoor.github.io/brandon_jahoor_resume.pdf)). I'd also draw on SOTA research, building on my
+experience of regularly implementing the latest papers as soon as they drop.
 
 Happy to walk through any of this in more depth.
